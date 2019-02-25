@@ -1,58 +1,6 @@
 [
        
-                {
-                    "name": "Deadpool",
-                    "url": {
-                        "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(10).jpg?alt=media&token=514b8d46-5734-4bd6-a207-1e15e8e78a8f",
-                        "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(10).jpg?alt=media&token=514b8d46-5734-4bd6-a207-1e15e8e78a8f",
-                        "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(10).jpg?alt=media&token=514b8d46-5734-4bd6-a207-1e15e8e78a8f"
-                    },
-                    "category": "Heroes",
-                    "timestamp": "February 12, 2016"
-                },
-                {
-                    "name": "Joker",
-                    "url": {
-                        "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(12).jpg?alt=media&token=da265f9b-3c95-4958-8084-e769ea4600fc",
-                        "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(12).jpg?alt=media&token=da265f9b-3c95-4958-8084-e769ea4600fc",
-                        "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(12).jpg?alt=media&token=da265f9b-3c95-4958-8084-e769ea4600fc"
-                    },
-                    "category": "Heroes",
-                    "timestamp": "February 12, 2016"
-                },
-
-        {
-            "name": "Logan",
-            "url": {
-                "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(8).jpg?alt=media&token=8047a4c9-8d4b-41af-88a3-7cff6dade570",
-                "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(8).jpg?alt=media&token=8047a4c9-8d4b-41af-88a3-7cff6dade570",
-                "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(8).jpg?alt=media&token=8047a4c9-8d4b-41af-88a3-7cff6dade570"
-            },
-            "category": "Heroes",
-            "timestamp": "February 12, 2016"
-        },
-
-        {
-            "name": "Jarvis",
-            "url": {
-                "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(9).jpg?alt=media&token=e791c845-8ca8-4c41-b516-29d2f0d3f541",
-                "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(9).jpg?alt=media&token=e791c845-8ca8-4c41-b516-29d2f0d3f541",
-                "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(9).jpg?alt=media&token=e791c845-8ca8-4c41-b516-29d2f0d3f541"
-            },
-            "category": "Heroes",
-            "timestamp": "February 12, 2016"
-        },
-
-            {
-                "name": "StarWars",
-                "url": {
-                    "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(11).jpg?alt=media&token=1d728e7c-0aa1-4a7c-ab10-b2beed19d06f",
-                    "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(11).jpg?alt=media&token=1d728e7c-0aa1-4a7c-ab10-b2beed19d06f",
-                    "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(11).jpg?alt=media&token=1d728e7c-0aa1-4a7c-ab10-b2beed19d06f"
-                },
-                "category": "Heroes",
-                "timestamp": "February 12, 2016"
-            },
+              
 
             {
                 "name": "Spiderman",
