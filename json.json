@@ -78,53 +78,7 @@
                 {
                     "name": "Joker",
                     "url": {
-                        "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(13).jpg?alt=media&token=a2e0cbcf-68ea-42be-83ed-297d0a026cb9",
-                        "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(13).jpg?alt=media&token=a2e0cbcf-68ea-42be-83ed-297d0a026cb9",
-                        "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(13).jpg?alt=media&token=a2e0cbcf-68ea-42be-83ed-297d0a026cb9"
-                    },
-                    "category": "Heroes",
-                    "timestamp": "February 12, 2016"
-                },
-                    {
-                        "name": "Ironman",
-                        "url": {
-                            "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(14).jpg?alt=media&token=4f25fca0-2970-4823-abca-b2c594dc6339",
-                            "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(14).jpg?alt=media&token=4f25fca0-2970-4823-abca-b2c594dc6339",
-                            "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(14).jpg?alt=media&token=4f25fca0-2970-4823-abca-b2c594dc6339"
-                        },
-                        "category": "Heroes",
-                        "timestamp": "February 12, 2016"
-                    },
-                    {
-                        "name": "Doktor",
-                        "url": {
-                            "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(15).jpg?alt=media&token=bd21a0df-8e6d-4ce5-bba9-dd0cc767f147",
-                            "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(15).jpg?alt=media&token=bd21a0df-8e6d-4ce5-bba9-dd0cc767f147",
-                            "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(15).jpg?alt=media&token=bd21a0df-8e6d-4ce5-bba9-dd0cc767f147"
-                        },
-                        "category": "Heroes",
-                        "timestamp": "February 12, 2016"
-                    },
-                        {
-                            "name": "Harley",
-                            "url": {
-                                "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(16).jpg?alt=media&token=bba4665a-f5d6-4c41-8bf3-593bbe0d4443",
-                                "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(16).jpg?alt=media&token=bba4665a-f5d6-4c41-8bf3-593bbe0d4443",
-                                "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(16).jpg?alt=media&token=bba4665a-f5d6-4c41-8bf3-593bbe0d4443"
-                            },
-                            "category": "Heroes",
-                            "timestamp": "February 12, 2016"
-                        },
-                        {
-                            "name": "Straji",
-                            "url": {
-                                "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(17).jpg?alt=media&token=a067c5d7-5d24-4ced-a054-c10ee1392c1f",
-                                "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(17).jpg?alt=media&token=a067c5d7-5d24-4ced-a054-c10ee1392c1f",
-                                "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(17).jpg?alt=media&token=a067c5d7-5d24-4ced-a054-c10ee1392c1f"
-                            },
-                            "category": "Heroes",
-                            "timestamp": "February 12, 2016"
-                        },
+
                         {
                             "name": "Superman",
                             "url": {
