@@ -49,16 +49,7 @@
         "category": "Heroes",
         "timestamp": "February 12, 2016"
     },
-    {
-        "name": "xz",
-        "url": {
-            "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(37).jpg?alt=media&token=5f6f999c-5530-4fc3-9e99-a4631a8df8f4",
-            "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(37).jpg?alt=media&token=5f6f999c-5530-4fc3-9e99-a4631a8df8f4",
-            "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(37).jpg?alt=media&token=5f6f999c-5530-4fc3-9e99-a4631a8df8f4"
-        },
-        "category": "Heroes",
-        "timestamp": "February 12, 2016"
-    },
+
     {
         "name": "Batman",
         "url": {
@@ -68,17 +59,59 @@
         },
         "category": "Heroes",
         "timestamp": "February 12, 2016"
-    },
-    {
-        "name": "Harley",
+    }, 
+        {
+        "name": "Flash",
         "url": {
-            "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(39).jpg?alt=media&token=858001f0-73a1-4192-b912-2d357f8b7735",
-            "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(39).jpg?alt=media&token=858001f0-73a1-4192-b912-2d357f8b7735",
-            "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(39).jpg?alt=media&token=858001f0-73a1-4192-b912-2d357f8b7735"
+            "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(26).jpg?alt=media&token=7f68f7c0-15ce-4c29-a73d-c85a265310fe",
+            "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(26).jpg?alt=media&token=7f68f7c0-15ce-4c29-a73d-c85a265310fe",
+            "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(26).jpg?alt=media&token=7f68f7c0-15ce-4c29-a73d-c85a265310fe"
         },
         "category": "Heroes",
         "timestamp": "February 12, 2016"
     },
+        {
+        "name": "Hulk",
+        "url": {
+            "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(19).jpg?alt=media&token=64db5ae3-6ec4-4081-b484-37e3fed7e437",
+            "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(19).jpg?alt=media&token=64db5ae3-6ec4-4081-b484-37e3fed7e437",
+            "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(19).jpg?alt=media&token=64db5ae3-6ec4-4081-b484-37e3fed7e437"
+        },
+        "category": "Heroes",
+        "timestamp": "February 12, 2016"
+    },
+    
+    {
+        "name": "Deadpool",
+        "url": {
+            "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(64).jpg?alt=media&token=3c1c48e1-8490-4693-992c-6b6e6ada56f2",
+            "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(64).jpg?alt=media&token=3c1c48e1-8490-4693-992c-6b6e6ada56f2",
+            "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(64).jpg?alt=media&token=3c1c48e1-8490-4693-992c-6b6e6ada56f2"
+        },
+        "category": "Heroes",
+        "timestamp": "February 12, 2016"
+    },
+        {
+        "name": "Deadpool",
+        "url": {
+            "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(63).jpg?alt=media&token=dc92c309-dcc7-4c90-96f7-a527e4e58290",
+            "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(63).jpg?alt=media&token=dc92c309-dcc7-4c90-96f7-a527e4e58290",
+            "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(63).jpg?alt=media&token=dc92c309-dcc7-4c90-96f7-a527e4e58290"
+        },
+        "category": "Heroes",
+        "timestamp": "February 12, 2016"
+    },
+        {
+        "name": "Deadpool",
+        "url": {
+            "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(60).jpg?alt=media&token=0fd31340-f4ad-44bb-9422-c82e79547074",
+            "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(60).jpg?alt=media&token=0fd31340-f4ad-44bb-9422-c82e79547074",
+            "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(60).jpg?alt=media&token=0fd31340-f4ad-44bb-9422-c82e79547074"
+        },
+        "category": "Heroes",
+        "timestamp": "February 12, 2016"
+    },
+
     {
         "name": "Ironman",
         "url": {
