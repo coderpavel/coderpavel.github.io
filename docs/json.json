@@ -1,10 +1,10 @@
 [
     {
         "name": "Panthera",
-        "url": {
-            "small": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(30).jpg?alt=media&token=6ea2b784-0e4f-410c-b577-2bf2b8d39b68",
-            "medium": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(30).jpg?alt=media&token=6ea2b784-0e4f-410c-b577-2bf2b8d39b68",
-            "large": "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(30).jpg?alt=media&token=6ea2b784-0e4f-410c-b577-2bf2b8d39b68"
+        url: {
+            small: "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(30).jpg?alt=media&token=6ea2b784-0e4f-410c-b577-2bf2b8d39b68",
+            medium: "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(30).jpg?alt=media&token=6ea2b784-0e4f-410c-b577-2bf2b8d39b68",
+            large: "https://firebasestorage.googleapis.com/v0/b/glide-aedf5.appspot.com/o/Heroes%2Fheroes%20(30).jpg?alt=media&token=6ea2b784-0e4f-410c-b577-2bf2b8d39b68"
         },
         "category": "Heroes",
         "timestamp": "February 12, 2016"
